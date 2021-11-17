@@ -97,6 +97,8 @@ public enum RowType
 }
 ```
 
+KB article - [How-to-customize-the-color-of-specific-group-in-WPF-GanttControl](https://www.syncfusion.com/kb/12848/how-to-customize-the-color-of-specific-group-in-wpf-ganttcontrol)
+
 ## See also
 
 [How to import and export the task details in Gantt](https://help.syncfusion.com/wpf/gantt/import-and-export-support)
