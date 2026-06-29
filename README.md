@@ -1,5 +1,5 @@
 # How-to-customize-the-color-of-specific-group-in-WPF-GanttControl
-This article explains how to customize the specific row with various color in the Syncfusion WPF Gantt control as shown in following image.
+This article explains how to customize the specific row with various color in the [WPF Gantt control](https://www.syncfusion.com/wpf-controls/gantt) as shown in following image.
 
 ![](Output.png)
 
@@ -100,6 +100,8 @@ public enum RowType
 KB article - [How-to-customize-the-color-of-specific-group-in-WPF-GanttControl](https://www.syncfusion.com/kb/12848/how-to-customize-the-color-of-specific-group-in-wpf-ganttcontrol)
 
 ## See also
+
+[Explore WPF Gantt Chart](https://www.syncfusion.com/wpf-controls/gantt)
 
 [How to import and export the task details in Gantt](https://help.syncfusion.com/wpf/gantt/import-and-export-support)
 
